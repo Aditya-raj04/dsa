@@ -55,9 +55,18 @@ class hell{
     //          default : System.out.println("sunday");
     // }
 
+     
 
 
-
+//                               Q > NEWER VERSION SWITCH CASE                                     
+        //      String day = "monday";
+        //      switch(day){
+        //         case "sunday","saturday" -> System.out.println("6 am");
+        //         // break;
+        //         case "monday" -> System.out.println("10 am");
+        //         // break;
+        //         default -> System.out.println("12 pm");
+        //      }
 
 
 
@@ -103,6 +112,8 @@ class hell{
         // int result = 0;
         // result = n % 2 == 0 ? 10 : 20;
         // System.out.println(result);
+
+System.out.println(result);
 
         
 
