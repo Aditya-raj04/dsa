@@ -27,6 +27,8 @@ for( int n[] : num){
 }
 
 
+system.out.print("this is it");
+
 
 
     }
