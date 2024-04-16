@@ -28,6 +28,7 @@ for( int n[] : num){
 
 
 system.out.print("this is it");
+system.out.print("jsbjkaskj");
 
 
 
