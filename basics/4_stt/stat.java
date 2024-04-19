@@ -7,6 +7,11 @@ class mobile{
     public void show(){
         System.out.println(brand + " : " + price + " : " + name + " : ");
     }
+
+    public static void show1(){
+        System.out.println("in static method");
+        // System.out.println(brand + " : " + price + " : " + name + " : ");
+    }
 }
 
 
@@ -31,6 +36,8 @@ class sta{
 
         obj2.show();
         obj1.show();
+
+        mobile.show1();
 
 
     }
