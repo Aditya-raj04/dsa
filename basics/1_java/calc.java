@@ -10,6 +10,7 @@ class calculator{
         calculator calc = new calculator();
        int result = calc.add(5,6);
        System.out.println(result);
+        System.out.println(result);
 
     }
 }
