@@ -8,6 +8,7 @@ class human{
 
     public void  setAge(int a){
      age = a;
+     System.out.println("djcs");
     }
 
     public String getName(){
